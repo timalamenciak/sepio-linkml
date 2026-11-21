@@ -25,8 +25,7 @@
          "@id": "http://purl.obolibrary.org/obo/SEPIO_",
          "@prefix": true
       },
-      "biolink": "https://w3id.org/biolink/",
-      "example": "https://example.org/",
+      "biolink": "https://w3id.org/biolink/vocab/",
       "linkml": "https://w3id.org/linkml/",
       "pav": "http://purl.org/pav/",
       "prov": "http://www.w3.org/ns/prov#",
